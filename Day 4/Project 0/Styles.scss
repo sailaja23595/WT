@@ -1,0 +1,20 @@
+// Variables.
+$evencolor: #eee; 
+$oddcolor : #fff;
+
+
+
+// Nesting
+table#t01  {
+    tr:nth-child(even){
+        background-color :$evencolor;
+    }
+    tr:nth-child(odd){
+        background-color :$oddcolor; 
+    }
+    th{
+        background-color: black;
+        color: white;
+    }
+
+}
