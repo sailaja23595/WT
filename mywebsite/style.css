@@ -201,7 +201,7 @@ p {
 
 /* Hero Section */
 #hero {
-	background-image: url(D:/WT/WT/mywebsite/img/bg.jpg);
+	background-image: url(./img/bg.jpg);
 	background-size: cover;
 	background-position: top center;
 	position: relative;
@@ -292,7 +292,7 @@ p {
 	flex-direction: column;
 	padding: 30px;
 	border-radius: 10px;
-	background-image: url(D:/WT/WT/mywebsite/img/download.jpg);
+	background-image: url(./img/download.jpg);
 	background-size: cover;
 	margin: 10px 5%;
 	position: relative;
